@@ -1,0 +1,4 @@
+The code was created witht the help of the Expert Learner AI tool in class. I reviewed the previous classes with Khaled, created my code and type it in the expert learner for feedback.
+The expert learner corrected my code and guided me through improving it to get the desired results. I also worked together with Nicole and Zahraa as we struggled initially but with the help of the study materials and each other we were able to effectively developed the code.
+For the output results in the Analysis text, I used this command in the terminal prompt python main.py > analysis.txt after googling how to export results into text files.
+The command redirects the output of the script to a text file automatically. I used this to avoid adding more lines of code to my script.
